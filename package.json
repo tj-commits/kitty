@@ -1,0 +1,15 @@
+{
+  "name": "kitty",
+  "version": "2.0.2",
+  "description": "A better version of lodash with a lot of mixins builtin.",
+  "main": "kitty.js",
+  "scripts": {
+    "test": "echo mew"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "lodash-addons": "^2.0.1"
+  }
+}
