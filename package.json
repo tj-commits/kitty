@@ -1,6 +1,6 @@
 {
   "name": "kitty",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "A better version of lodash with a lot of mixins builtin.",
   "main": "kitty.js",
   "scripts": {
@@ -11,5 +11,13 @@
   "dependencies": {
     "lodash": "^4.17.21",
     "lodash-addons": "^2.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tj-commits/kitty.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tj-commits/kitty/issues"
+  },
+  "homepage": "https://www.npmjs.com/package/kitty"
 }
